@@ -1,0 +1,8 @@
+name: pds-tarea5
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - numpy
+  - matplotlib
+  - scipy
